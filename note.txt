@@ -1,0 +1,4 @@
+1.What is React?
+    Ans:React is a ui building interface
+2.What Problem react dose solve
+    Ans:
